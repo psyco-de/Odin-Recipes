@@ -1,1 +1,5 @@
-/* It is best practice to add height and width to an html element as well as using the property value pair for that element, because space needs to be reserved on the page if not the image wont load as fast as the page and then will cause a sudden huge shift on the screen*/ 
+/* It is best practice to add height and width to an html element as well as using the property value pair for that element, because space needs to be reserved on the page if not the image wont load as fast as the page and then will cause a sudden huge shift on the screen*/
+
+.Title{
+background-color:blue;
+} 
